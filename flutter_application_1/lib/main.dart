@@ -23,7 +23,7 @@ class AppBarDemo extends StatelessWidget {
           fontWeight: FontWeight.bold,
         ),
         title: Text(
-          'Andressa Camile',
+          'And Camile',
         ),
         actions: [
           IconButton(
